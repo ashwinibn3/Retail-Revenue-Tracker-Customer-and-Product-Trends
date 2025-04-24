@@ -22,10 +22,8 @@ This Tableau dashboard was built using real-world online retail transaction data
 - Microsoft Excel (data prep & cleaning)  
 - Tableau Public (dashboard creation & publishing)
 
-## Let’s Connect
-Open to feedback, ideas, or collaboration —  
-Linkedin : (https://www.linkedin.com/in/ashwini-bn/)
 ### 📬 Let's Connect
+Open to feedback, ideas, or collaboration 
 [My LinkedIn Profile](https://www.linkedin.com/in/ashwini-bn/)
 
 
