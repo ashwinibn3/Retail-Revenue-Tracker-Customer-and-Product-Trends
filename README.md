@@ -4,7 +4,7 @@
 Ever wondered which day of the week people shop the most, or which quirky product secretly drives the most revenue? I did too — and that’s how this dashboard came to life.
 This Tableau dashboard was built using real-world online retail transaction data, with a major focus on the UK — where most of the revenue comes from. The goal was to uncover buying patterns, top-selling products, and revenue-driving customer segments to simulate decision-making for retail stakeholders.
 
-This project uses the Online Retail Dataset provided by (https://archive.ics.uci.edu/ml/datasets/online+retail)
+This project uses the [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
 ## Dashboard Components
 - KPIs : Revenue, Quantity Sold, Unique Customers, Orders  
