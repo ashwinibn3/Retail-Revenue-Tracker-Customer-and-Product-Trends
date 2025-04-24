@@ -24,5 +24,11 @@ This Tableau dashboard was built using real-world online retail transaction data
 
 ## Let’s Connect
 Open to feedback, ideas, or collaboration —  
-[LinkedIn](www.linkedin.com/in/ashwini-bn)
+Linkedin : (https://www.linkedin.com/in/ashwini-bn/)
+### 📬 Let's Connect
+[My LinkedIn Profile](https://www.linkedin.com/in/ashwini-bn/)
+
+
+
+
 
